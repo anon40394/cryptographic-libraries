@@ -1,5 +1,5 @@
 # Cryptographic Libraries
-*An Empirical Study of Vulnerabilities in Cryptographic Libraries
+*An Empirical Study of Vulnerabilities in Cryptographic Libraries*
 
 The security of the Internet rests on a small number of open-source cryptographic libraries: A vulnerability in any one of them threatens to compromise a significant percentage of web traffic. Despite this potential for security impact, the characteristics and causes of vulnerabilities in cryptographic software are not well understood. In this work, we conduct the first comprehensive, longitudinal analysis of cryptographic libraries and the vulnerabilities they produce. We collect data from the National Vulnerability Database, individual project repositories and mailing lists, and other relevant sources for all widely used cryptographic libraries.
 
