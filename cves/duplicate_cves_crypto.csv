@@ -1,0 +1,4 @@
+CVE-2015-4000, "Logjam", [openssl, nss]
+CVE-2013-0169, "Lucky Thirteen", [openssl, mbedtls]
+CVE-2009-3555, "Project Mogul", [openssl, gnutls, nss]
+CVE-2009-2409, "Support of MD2 with X.509 certificates", [openssl, gnutls, nss]

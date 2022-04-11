@@ -1,0 +1,106 @@
+library,year,version,ccn
+OpenSSL,2012,1.0.1,6.7
+OpenSSL,2014,1.0.2,6.9
+OpenSSL,2016,1.1.0,6.2
+OpenSSL,2018,1.1.1,6.1
+OpenSSL,2020,1.1.1,6.1
+GnuTLS,2012,3.0.0,5.7
+GnuTLS,2014,3.2.0,5.9
+GnuTLS,2016,3.5.0,6.1
+GnuTLS,2018,3.6.0,5.7
+GnuTLS,2020,3.7.0,5.5
+NSS,2012,3.13,6.4
+NSS,2014,3.16,6.2
+NSS,2016,3.19,5
+NSS,2018,3.35,4.7
+NSS,2020,3.49,4.5
+LibreSSL,2012,N/A,N/A
+LibreSSL,2014,2.1.2,4.5
+LibreSSL,2016,2.3.2,5.5
+LibreSSL,2018,2.7.0,4.5
+LibreSSL,2020,3.1.0,4.2
+BoringSSL,2012,N/A,N/A
+BoringSSL,2014,N/A,5.5
+BoringSSL,2016,N/A,5.5
+BoringSSL,2018,N/A,3.4
+BoringSSL,2020,N/A,3.4
+Botan,2012,1.10.2,2.3
+Botan,2014,1.11.7,2.3
+Botan,2016,1.11.26,2.1
+Botan,2018,2.4.0,2.3
+Botan,2020,2.13.0,2.2
+Libgcrypt,2012,1.5.0,5.7
+Libgcrypt,2014,1.6.1,6
+Libgcrypt,2016,1.6.5,6
+Libgcrypt,2018,1.8.2,6.3
+Libgcrypt,2020,1.8.6,6.2
+WolfSSL,2012,2.0.6,5.1
+WolfSSL,2014,2.8.6,6.1
+WolfSSL,2016,3.8.0,6.4
+WolfSSL,2018,3.13.2,7.8
+WolfSSL,2020,4.3.0,7.8
+MatrixSSL,2012,N/A,N/A
+MatrixSSL,2014,N/A,N/A
+MatrixSSL,2016,3.8.3,8.6
+MatrixSSL,2018,3.9.5,7.7
+MatrixSSL,2020,4.3.0,6.8
+Bouncy Castle,2012,r1v49,2.3
+Bouncy Castle,2014,r1v51,2.4
+Bouncy Castle,2016,r1v54,2.3
+Bouncy Castle,2018,r1v59,2.3
+Bouncy Castle,2020,r1v65,2.3
+Crypto++,2012,N/A,N/A
+Crypto++,2014,5,2
+Crypto++,2016,5.6.4,2.4
+Crypto++,2018,6.0.0,2.5
+Crypto++,2020,8.3.0,2.5
+Nettle,2012,2.5,4
+Nettle,2014,3,3.2
+Nettle,2016,3.2,3.2
+Nettle,2018,3.4,3.1
+Nettle,2020,3.6,2.9
+Python-Cryptography,2012,N/A,N/A
+Python-Cryptography,2014,0.1,1.6
+Python-Cryptography,2016,1.2.2,1.6
+Python-Cryptography,2018,2.2,1.5
+Python-Cryptography,2020,2.9,1.5
+PyCryptodome,2012,N/A,N/A
+PyCryptodome,2014,3,2.2
+PyCryptodome,2016,3.4,2.1
+PyCryptodome,2018,3.4.8,2.1
+PyCryptodome,2020,3.9.5,2.1
+Sodium Oxide,2012,N/A,N/A
+Sodium Oxide,2014,N/A,N/A
+Sodium Oxide,2016,N/A,N/A
+Sodium Oxide,2018,0.1.0,1.4
+Sodium Oxide,2020,0.2.6,1.4
+Rustls,2012,N/A,N/A
+Rustls,2014,N/A,N/A
+Rustls,2016,N/A,N/A
+Rustls,2018,0.5.1,1.7
+Rustls,2020,0.17.0,2
+Mbed TLS,2012,1.0.0,5.7
+Mbed TLS,2014,1.3.3,5.9
+Mbed TLS,2016,2.2.1,6.4
+Mbed TLS,2018,2.6.1,6.8
+Mbed TLS,2020,2.20.0,10.8
+PyCrypto,2012,v2.5,2.1
+PyCrypto,2014,v2.7a1,2.1
+PyCrypto,2016,N/A,N/A
+PyCrypto,2018,N/A,N/A
+PyCrypto,2020,N/A,N/A
+LibTomCrypt,2012,1.17,6.6
+LibTomCrypt,2014,1.17,6.6
+LibTomCrypt,2016,v.1.18-rc1,6.9
+LibTomCrypt,2018,v1.18.2,7
+LibTomCrypt,2020,N/A,N/A
+Orion,2012,N/A,N/A
+Orion,2014,N/A,N/A
+Orion,2016,N/A,N/A
+Orion,2018,0.4.3,1.4
+Orion,2020,0.14.5,1.5
+Relic,2012,0.3.1,4.2
+Relic,2014,0.4.0,4.2
+Relic,2016,N/A,N/A
+Relic,2018,N/A,N/A
+Relic,2020,0.5.0,4.2
